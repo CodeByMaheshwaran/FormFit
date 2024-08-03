@@ -1,6 +1,6 @@
 ### Form Fit Web Application
 
-+ FitneDeveloped a responsive Fitness web application using React, which allows users to explore
++ Responsive Fitness web application using React, which allows users to explore
 exercises targeting specific body parts.
 + Users can select different body parts (e.g., arms, legs, abs) to view a list of exercises. 
 + Each exercise is presented with a GIF image demonstrating the correct form and technique.
